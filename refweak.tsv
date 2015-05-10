@@ -1,4 +1,6 @@
 accession	species	comment
+NC_017644.1	Escherichia coli UPEC ST131	See PubMed 24706808 for discussion on the quality of this genome
+CP002797.2	Escherichia coli UPEC ST131	See PubMed 24706808 for discussion on the quality of this genome
 CP006958.1	 Achromobacter xylosoxidans	Illumina adapter contamination
 NZ_AEUL01	SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR GALLINARUM STR. SG9	Too many proteins
 NZ_AEUK01	SALMONELLA ENTERICA SUBSP. ENTERICA SEROVAR DUBLIN STR. SD3246	Too many proteins
