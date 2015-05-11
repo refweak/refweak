@@ -14,4 +14,7 @@ Yes. These are the most problematic.
 ## How do I appeal a decision?
 Fix your genome and resubmit it to GenBank, then let us know.
 
+## List of Quality Criteria to check
+https://docs.google.com/document/d/1Ovv04dmjfEfEk4ohgzk5ovV3vgu7ECJLbt4NK8QaTd0/edit?usp=sharing
+
 
