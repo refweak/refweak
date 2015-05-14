@@ -1,1 +1,158 @@
-accession	genus	species	sub_species_or_strain	bioproject_accession	comment	link_to_raw_dataCP006958	Achromobacter	xylosoxidans	NBRC15126 ATCC27061	NCBI PRJNA209573	Illumina adapter contamination	NACVNZ01	Chlamydia	trachomatis			More than 1 contig per expected gene	NANC_017644	Escherichia	coli	UPEC ST131		See PubMed 24706808 for discussion on the quality of this genome	CP002797	Escherichia	coli	UPEC ST131		See PubMed 24706808 for discussion on the quality of this genome	JSPL01	Escherichia	coli			Fragmented and genome much larger than expected	CCCK01	Escherichia	coli			Fragmented and genome much larger than expected	CDQW01	Escherichia	coli			Fragmented and genome much larger than expected	CCCD01	Escherichia	coli			Fragmented and genome much larger than expected	CDRO01	Escherichia	coli			Fragmented and genome much larger than expected	CDQN01	Escherichia	coli			Fragmented and genome much larger than expected	CCCJ01	Escherichia	coli			Fragmented and genome much larger than expected	CDQS01	Escherichia	coli			Fragmented and genome much larger than expected	CCCH01	Escherichia	coli			Fragmented and genome much larger than expected	JSME01	Escherichia	coli			Half expected size and highly fragmented	JSMM01	Escherichia	coli			Half expected size and highly fragmented	JSKQ01	Escherichia	coli			Half expected size and highly fragmented	JSIZ01	Escherichia	coli			Half expected size and highly fragmented	JSJV01	Escherichia	coli			Half expected size and highly fragmented	JSJY01	Escherichia	coli			Half expected size and highly fragmented	JSKW01	Escherichia	coli			Half expected size and highly fragmented	JSJR01	Escherichia	coli			Half expected size and highly fragmented	JSJD01	Escherichia	coli			Half expected size and highly fragmented	JSLH01	Escherichia	coli			Half expected size and highly fragmented	JSKH01	Escherichia	coli			Half expected size and highly fragmented	JSJH01	Escherichia	coli			Half expected size and highly fragmented	JSJC01	Escherichia	coli			Half expected size and highly fragmented	JSKY01	Escherichia	coli			Half expected size and highly fragmented	JSHN01	Escherichia	coli			Half expected size and highly fragmented	JSLM01	Escherichia	coli			Half expected size and highly fragmented	JSKV01	Escherichia	coli			Half expected size and highly fragmented	JSLO01	Escherichia	coli			Half expected size and highly fragmented	JSJU01	Escherichia	coli			Half expected size and highly fragmented	JSIP01	Escherichia	coli			Half expected size and highly fragmented	JSLS01	Escherichia	coli			Half expected size and highly fragmented	CBWF01	Klebsiella	pneumoniae			IS22  Too many proteins	NZ_AEUL01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR GALLINARUM STR. SG9		Too many proteins	NZ_AEUK01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR DUBLIN STR. SD3246		Too many proteins	NZ_AEJH01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR CHOLERAESUIS STR. SCSA50		Too many proteins	JPIO01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR WELTEVREDEN		Too few proteins	CCBJ01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR MANHATTAN	ENA SAMEA3158455	40 times bigger than a normal Salmonella	CAAY01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHI STR. AG3		More than 1 contig per expected gene	CAAQ01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHI STR. 404TY		More than 1 contig per expected gene	AROE01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L904		More than 1 contig per expected gene and total size too small	AROD01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L927		More than 1 contig per expected gene	AROC01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L852		More than 1 contig per expected gene and total size too small	AROB01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L945		More than 1 contig per expected gene	NZ_AEJH01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR CHOLERAESUIS STR. SCSA50		Number of proteins more than 50% greater than average for Salmonella enterica	NZ_AEUL01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR GALLINARUM STR. SG9		Number of proteins more than 50% greater than average for Salmonella enterica	NZ_APAG01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR CUBANA STR. CFSAN001083		Number of proteins more than 50% greater than average for Salmonella enterica	CFYS01	Staphylococcus	aureus			Too many contigs	JXSA01	Staphylococcus	aureus			Too many contigs	JXSH01	Staphylococcus	aureus			Too many contigs	JXSG01	Staphylococcus	aureus			Too many contigs	CFFU01	Streptococcus	pneumoniae	 		Too small	CFDO01	Streptococcus	pneumoniae	 		Too small	CHIQ01	Streptococcus	pneumoniae	 		Too small	CVKS01	Streptococcus	pneumoniae	 		Too small	CFDG01	Streptococcus	pneumoniae	 		Too small	CHHQ01	Streptococcus	pneumoniae	 		Too small	CHOP01	Streptococcus	pneumoniae	 		Too small	CHXN01	Streptococcus	pneumoniae	 		Too Fragmented	CFFF01	Streptococcus	pneumoniae	 		Too big	CFEQ01	Streptococcus	pneumoniae	 		Too big	CGXO01	Streptococcus	pneumoniae	 		Too big	CHTU01	Streptococcus	pneumoniae	 		Too big	CVOF01	Streptococcus	pneumoniae	 		Too big	CHRW01	Streptococcus	pneumoniae	 		Too big	CGWL01	Streptococcus	pneumoniae	 		Too big	CIDK01	Streptococcus	pneumoniae	 		Too big	CFFY01	Streptococcus	pneumoniae	 		Too big	CHVB01	Streptococcus	pneumoniae	 		Too big	CHVD01	Streptococcus	pneumoniae	 		Too big	CIIO01	Streptococcus	pneumoniae	 		Too big	CIDG01	Streptococcus	pneumoniae	 		Too big	CVLS01	Streptococcus	pneumoniae	 		Too big	
+CAAQ01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHI STR. 404TY		More than 1 contig per expected gene	
+CAAY01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHI STR. AG3		More than 1 contig per expected gene	
+CBWF01	Klebsiella	pneumoniae			IS22  Too many proteins	
+CCBJ01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR MANHATTAN	ENA SAMEA3158455	40 times bigger than a normal Salmonella	
+CCCD01	Escherichia	coli			Fragmented and genome much larger than expected	
+CCCH01	Escherichia	coli			Fragmented and genome much larger than expected	
+CCCJ01	Escherichia	coli			Fragmented and genome much larger than expected	
+CCCK01	Escherichia	coli			Fragmented and genome much larger than expected	
+CDQN01	Escherichia	coli			Fragmented and genome much larger than expected	
+CDQS01	Escherichia	coli			Fragmented and genome much larger than expected	
+CDQW01	Escherichia	coli			Fragmented and genome much larger than expected	
+CDRO01	Escherichia	coli			Fragmented and genome much larger than expected	
+CFDG01	Streptococcus	pneumoniae	 		Too small	
+CFDO01	Streptococcus	pneumoniae	 		Too small	
+CFEQ01	Streptococcus	pneumoniae	 		Too big	
+CFFF01	Streptococcus	pneumoniae	 		Too big	
+CFFU01	Streptococcus	pneumoniae	 		Too small	
+CFFY01	Streptococcus	pneumoniae	 		Too big	
+CFYS01	Staphylococcus	aureus			Too many contigs	
+CGWL01	Streptococcus	pneumoniae	 		Too big	
+CGXO01	Streptococcus	pneumoniae	 		Too big	
+CHHQ01	Streptococcus	pneumoniae	 		Too small	
+CHIQ01	Streptococcus	pneumoniae	 		Too small	
+CHOP01	Streptococcus	pneumoniae	 		Too small	
+CHRW01	Streptococcus	pneumoniae	 		Too big	
+CHTU01	Streptococcus	pneumoniae	 		Too big	
+CHVB01	Streptococcus	pneumoniae	 		Too big	
+CHVD01	Streptococcus	pneumoniae	 		Too big	
+CHXN01	Streptococcus	pneumoniae	 		Too Fragmented	
+CIDG01	Streptococcus	pneumoniae	 		Too big	
+CIDK01	Streptococcus	pneumoniae	 		Too big	
+CIIO01	Streptococcus	pneumoniae	 		Too big	
+CP002797	Escherichia	coli	UPEC ST131		See PubMed 24706808 for discussion on the quality of this genome	
+CP006958	Achromobacter	xylosoxidans	NBRC15126 ATCC27061	NCBI PRJNA209573	Illumina adapter contamination	NA
+CVKS01	Streptococcus	pneumoniae	 		Too small	
+CVLS01	Streptococcus	pneumoniae	 		Too big	
+CVNZ01	Chlamydia	trachomatis			More than 1 contig per expected gene	NA
+CVOF01	Streptococcus	pneumoniae	 		Too big	
+CFAX01	Streptococcus	pneumoniae			Too fragmented	
+CFGZ01	Streptococcus	pneumoniae			Too fragmented	
+CFYQ01	Bordetella	pertussis			Too fragmented	
+CFZH01	Bordetella	pertussis			Too fragmented	
+CGCX01	Mycobacterium	tuberculosis			Too fragmented	
+CGDO01	Mycobacterium	tuberculosis			Too fragmented	
+CGFZ01	Bordetella	pertussis			Too fragmented	
+CGWE01	Streptococcus	pneumoniae			Too fragmented	
+CHCS01	Streptococcus	pneumoniae			Too fragmented	
+CHCU01	Streptococcus	pneumoniae			Too fragmented	
+CHDS01	Mycobacterium	tuberculosis			Too fragmented	
+CHED01	Mycobacterium	tuberculosis			Too fragmented	
+CHEE01	Mycobacterium	tuberculosis			Too fragmented	
+CHKU01	Bordetella	pertussis			Too fragmented	
+CHKZ01	Bordetella	pertussis			Too fragmented	
+CHQU01	Streptococcus	pneumoniae			Too fragmented	
+CIBW01	Streptococcus	pneumoniae			Too fragmented	
+CIGT01	Bordetella	pertussis			Too fragmented	
+CIGY01	Bordetella	pertussis			Too fragmented	
+CKLU01	Streptococcus	pneumoniae			Too fragmented	
+CKMB01	Streptococcus	pneumoniae			Too fragmented	
+CKMC01	Streptococcus	pneumoniae			Too fragmented	
+CKMD01	Streptococcus	pneumoniae			Too fragmented	
+CKME01	Streptococcus	pneumoniae			Too fragmented	
+CKMG01	Streptococcus	pneumoniae			Too fragmented	
+CKML01	Streptococcus	pneumoniae			Too fragmented	
+CKMN01	Streptococcus	pneumoniae			Too fragmented	
+CLCA01	Streptococcus	pneumoniae			Too fragmented	
+CLCF01	Streptococcus	pneumoniae			Too fragmented	
+CLCT01	Streptococcus	pneumoniae			Too fragmented	
+CLCV01	Streptococcus	pneumoniae			Too fragmented	
+CLCW01	Streptococcus	pneumoniae			Too fragmented	
+CLDM01	Streptococcus	pneumoniae			Too fragmented	
+CLMB01	Streptococcus	pneumoniae			Too fragmented	
+CMMW01	Streptococcus	pneumoniae			Too fragmented	
+CMQU01	Streptococcus	pneumoniae			Too fragmented	
+CMTL01	Streptococcus	pneumoniae			Too fragmented	
+CNAO01	Streptococcus	pneumoniae			Too fragmented	
+CNBX01	Mycobacterium	tuberculosis			Too fragmented	
+CNCN01	Mycobacterium	tuberculosis			Too fragmented	
+CNCO01	Mycobacterium	tuberculosis			Too fragmented	
+CNDE01	Mycobacterium	tuberculosis			Too fragmented	
+CNDG01	Mycobacterium	tuberculosis			Too fragmented	
+CNFP01	Mycobacterium	tuberculosis			Too fragmented	
+CNFQ01	Mycobacterium	tuberculosis			Too fragmented	
+CNFR01	Mycobacterium	tuberculosis			Too fragmented	
+CNFS01	Mycobacterium	tuberculosis			Too fragmented	
+CNFT01	Mycobacterium	tuberculosis			Too fragmented	
+CNFU01	Mycobacterium	tuberculosis			Too fragmented	
+CNFV01	Mycobacterium	tuberculosis			Too fragmented	
+CNFW01	Mycobacterium	tuberculosis			Too fragmented	
+CNGE01	Mycobacterium	tuberculosis			Too fragmented	
+CNGG01	Mycobacterium	tuberculosis			Too fragmented	
+CNIS01	Mycobacterium	tuberculosis			Too fragmented	
+CNMV01	Mycobacterium	tuberculosis			Too fragmented	
+COIL01	Mycobacterium	tuberculosis			Too fragmented	
+CPAQ01	Mycobacterium	tuberculosis			Too fragmented	
+CPMC01	Streptococcus	pneumoniae			Too fragmented	
+CPMI01	Streptococcus	pneumoniae			Too fragmented	
+CPMN01	Streptococcus	pneumoniae			Too fragmented	
+CPNM01	Streptococcus	pneumoniae			Too fragmented	
+CPOJ01	Streptococcus	pneumoniae			Too fragmented	
+CPPR01	Streptococcus	pneumoniae			Too fragmented	
+CPQT01	Streptococcus	pneumoniae			Too fragmented	
+CPRN01	Streptococcus	pneumoniae			Too fragmented	
+CPSE01	Streptococcus	pneumoniae			Too fragmented	
+CPSU01	Streptococcus	pneumoniae			Too fragmented	
+CPUM01	Streptococcus	pneumoniae			Too fragmented	
+CPWZ01	Mycobacterium	tuberculosis			Too fragmented	
+CPZG01	Mycobacterium	tuberculosis			Too fragmented	
+CQPL01	Mycobacterium	tuberculosis			Too fragmented	
+CQPT01	Mycobacterium	tuberculosis			Too fragmented	
+CQPW01	Mycobacterium	tuberculosis			Too fragmented	
+CQQC01	Mycobacterium	tuberculosis			Too fragmented	
+CQTO01	Mycobacterium	tuberculosis			Too fragmented	
+CRBZ01	Streptococcus	pneumoniae			Too fragmented	
+CRCI01	Streptococcus	pneumoniae			Too fragmented	
+CRCN01	Streptococcus	pneumoniae			Too fragmented	
+CRCO01	Streptococcus	pneumoniae			Too fragmented	
+CRGB01	Streptococcus	pneumoniae			Too fragmented	
+CRRN01	Streptococcus	pneumoniae			Too fragmented	
+CRSC01	Streptococcus	pneumoniae			Too fragmented	
+CSAU01	Mycobacterium	tuberculosis			Too fragmented	
+CSAV01	Mycobacterium	tuberculosis			Too fragmented	
+CSAY01	Mycobacterium	tuberculosis			Too fragmented	
+CSBI01	Mycobacterium	tuberculosis			Too fragmented	
+CSBK01	Mycobacterium	tuberculosis			Too fragmented	
+CSLY01	Bordetella	pertussis			Too fragmented	
+CSMT01	Staphylococcus	aureus			Too fragmented	
+CSNC01	Staphylococcus	aureus			Too fragmented	
+CSPC01	Staphylococcus	haemolyticus			Too fragmented	
+CSPN01	Staphylococcus	aureus			Too fragmented	
+CSQX01	Bordetella	pertussis			Too fragmented	
+CSST01	Staphylococcus	aureus			Too fragmented	
+CSTN01	Chlamydia	trachomatis			Too fragmented	
+CSTQ01	Chlamydia	trachomatis			Too fragmented	
+CSTU01	Mycobacterium	abscessus			Too fragmented	
+CSVM01	Mycobacterium	abscessus			Too fragmented	
+CSVS01	Mycobacterium	abscessus			Too fragmented	
+CSZG01	Mycobacterium	abscessus			Too fragmented	
+CSZP01	Mycobacterium	abscessus			Too fragmented	
+CSZS01	Mycobacterium	abscessus			Too fragmented	
+CSZT01	Mycobacterium	abscessus			Too fragmented	
+CTBL01	Chlamydia	trachomatis			Too fragmented	
+CTRE01	Yersinia	enterocolitica			Too fragmented	
+CTZB01	Staphylococcus	aureus			Too fragmented	
+CTZD01	Staphylococcus	aureus			Too fragmented	
+CUAH01	Staphylococcus	aureus			Too fragmented	
+CUAL01	Staphylococcus	aureus			Too fragmented	
+CUAN01	Staphylococcus	aureus			Too fragmented	
+CUAQ01	Staphylococcus	aureus			Too fragmented	
+CUBB01	Staphylococcus	aureus			Too fragmented	
+CUCA01	Staphylococcus	aureus			Too fragmented	
+CUCB01	Staphylococcus	aureus			Too fragmented	
+CUDA01	Staphylococcus	aureus			Too fragmented	
+CUDH01	Staphylococcus	aureus			Too fragmented	
+CUDK01	Staphylococcus	aureus			Too fragmented	
+CUEG01	Staphylococcus	aureus			Too fragmented	
+CUEP01	Staphylococcus	aureus			Too fragmented	
+CVLR01	Streptococcus	pneumoniae			Too fragmented	
