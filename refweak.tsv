@@ -1,4 +1,5 @@
 accession	genus	species	sub_species_or_strain	bioproject_accession	comment	link_to_raw_data
+JSVT01  Enterococcus faecium ATCC 51559  Doesnt vanA operon, when it should.26358609
 AROB01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L945		More than 1 contig per expected gene	
 AROC01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L852		More than 1 contig per expected gene and total size too small	
 AROD01	Salmonella	enterica	SUBSP. ENTERICA SEROVAR TYPHIMURIUM STR. L927		More than 1 contig per expected gene	
